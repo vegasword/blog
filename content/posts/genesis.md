@@ -4,7 +4,7 @@ draft = false
 title = 'Genesis'
 +++
 
-Hi there. The name is vegasword. This is my very first post of this very first blog of mine. I was thinking for a while about creating one, and I must admit that my motivation came from reading from inspiring people that did so, mostly programmers. Also, in those troubled times, I wanted to share my thoughts on random stuff, whether it's technical, philosophical, or some observations.
+Hi there. The name is vegasword. This is my very first post of this very first blog of mine. I was thinking for a while about creating one, and I must admit that my motivation came by reading from inspiring people that did so, mostly programmers. Also, in those troubled times, I wanted to share my thoughts on random stuff, whether it's technical, philosophical, or some observations.
 
 ## I will never use any LLMs for writting or optimizing my posts.
 
@@ -20,9 +20,9 @@ I'm a 23yo [programmer](https://codeberg.org/vegasword) living in the suburb of 
 
 ### I love computers
 
-I got my first PC at 5, thanks to my nanny, because I couldn't resist to stare at it the same way I was staring at my Dad's screen while he was working or playing video games. I'll never forget my exictement the day I booted up Windows 2000, sitting on Mom's knees. I remember that the first thing we did was typing on Open Office a chocolate cake recipe paper we grabbed from the kitchen (*I swear this isn't a lie*).
+I got my first PC at 5, thanks to my nanny, because I couldn't resist to stare at it the same way I was staring at my Dad's screen while he was working or playing video games. I'll never forget my excitement the day I booted up Windows 2000, sitting on Mom's knees. I remember that the first thing we did was typing on Open Office a chocolate cake recipe that we grabbed from the kitchen (*I swear this isn't a lie*).
 
-From this moment, I used computers weekly, sometimes unreasonably at a daily basis, playing games, crawling their data files from the Windows Explorer, feeling like Indiana Jones, wondering why I couldn't open a binary file without being prompt which program I wanted to use to open it; installing more games like Lego Racers or Rayman Raving Rabbids; opening Windows Movie Maker and loading some vids and pics taken with my [Logitech Quick Cam](https://upload.wikimedia.org/wikipedia/commons/2/2c/Logitech_QuickCam_Express_-8477.jpg), discovering unpurposely the stop motion technique by moving my Legos figurines...
+From this moment, I used computers weekly, sometimes unreasonably at a daily basis, playing games, crawling their data files from the Windows Explorer, feeling like Indiana Jones, wondering why I couldn't open a binary file without being prompt which program I wanted to use to open it; installing more games like Lego Racers or Rayman Raving Rabbids; opening Windows Movie Maker and loading some vids and pics taken with my [Logitech Quick Cam](https://upload.wikimedia.org/wikipedia/commons/2/2c/Logitech_QuickCam_Express_-8477.jpg), discovering unpurposely the stop motion technique using my Legos figurines...
 
 I'm very nostalgic from this simple era, when UX was creative, sometimes a bit trippy. Then my CRT became a LCD monitor, Windows got upgraded to XP, my GPU as well. I remember being impressed by a [NVDIA 3D screen saver](https://www.youtube.com/watch?v=sPFPHNOeAxc), distracting me from picking one... Then my Minecraft journey came a bit after and I instantly felt in love with the creative mode. Not even mentionning the golden era of modern games I went through with the consoles my parents bought.
 
@@ -37,6 +37,6 @@ This last decade :
 
 ### That's it folks
 
-I hope you enjoy wadding through this introduction. I'll try to setup a descent comment section because I would love to interact with randomers, especially to deeply discuss on serious topics.
+I hope you enjoyed wadding through my introduction. I'll try to setup a descent comment section because I would love to interact with randomers, especially to deeply discuss on serious topics.
 
 I'll try to pick the next topic I want to write on. Bye now !
