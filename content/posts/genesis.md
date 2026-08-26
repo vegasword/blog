@@ -16,7 +16,7 @@ This blog will be hosted for now on Microslop's Github Pages™. It's free and [
 
 ## Who am I ?
 
-I'm a 23yo [programmer](https://codeberg.org/vegasword) living in the suburb of Paris.
+I'm a 23 years old [programmer](https://codeberg.org/vegasword) living in the suburb of Paris.
 
 ### I love computers
 
@@ -24,7 +24,7 @@ I got my first PC at 5, thanks to my nanny, because I couldn't resist to stare a
 
 From this moment, I used computers weekly, sometimes unreasonably at a daily basis, playing games, crawling their data files from the Windows Explorer, feeling like Indiana Jones, wondering why I couldn't open a binary file without being prompt which program I wanted to use to open it; installing more games like Lego Racers or Rayman Raving Rabbids; opening Windows Movie Maker and loading some vids and pics taken with my [Logitech Quick Cam](https://upload.wikimedia.org/wikipedia/commons/2/2c/Logitech_QuickCam_Express_-8477.jpg), discovering unpurposely the stop motion technique using my Legos figurines...
 
-I'm very nostalgic from this simple era, when UX was creative, sometimes a bit trippy. Then my CRT became a LCD monitor, Windows got upgraded to XP, my GPU as well. I remember being impressed by a [NVDIA 3D screen saver](https://www.youtube.com/watch?v=sPFPHNOeAxc), distracting me from picking one... Then my Minecraft journey came a bit after and I instantly felt in love with the creative mode. Not even mentionning the golden era of modern games I went through with the consoles my parents bought.
+I'm very nostalgic from this simple era, back when UX was creative, sometimes even a bit trippy. Then my CRT monitor became a LCD one, my Windows installation got upgraded to XP, my GPU as well. I remember staring for minutes at a [NVDIA 3D screen saver](https://www.youtube.com/watch?v=sPFPHNOeAxc), distracting me from picking one... Then my Minecraft journey came a bit after and I instantly felt in love with the creative mode. Not even mentionning the golden era of modern games I went through with the consoles my parents bought me and of course the creation of my Steam account.
 
 ### I love to create for the sake of art
 
