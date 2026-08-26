@@ -24,9 +24,5 @@ title = 'vegasword - Blog'
   url = "https://codeberg.org/vegasword"
 
 [[params.socialIcons]]
-  name = "Rss"
-  url = "/index.xml"
-
-[[params.socialIcons]]
   name = "photo"
   url = "https://vegasword.github.io/gallery"

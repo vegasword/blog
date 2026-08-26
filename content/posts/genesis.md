@@ -12,7 +12,7 @@ I only use Gemini as a search engine, mostly for finding more easily techinical 
 
 I'm sorry in advance for my imperfect English. If you notice any grammatical errors, or something even more gross, please open a Github issue [here](https://github.com/vegasword/blog/issues).
 
-This blog will be hosted for now on Microslop's Github Pages™. It's free and [HUGO](https://gohugo.io/), "the most popular open-source static site generators", is pragmatic enough to integrate with it. Also, this HUGO template I picked supports RSS. Feels free to subscribe. If you read this from an Android phone and don't want to install a RSS reader full of ads or paywalls, here's [Capy Reader](https://capyreader.com/).
+This blog will be hosted for now on Microslop's Github Pages™. It's free and [HUGO](https://gohugo.io/), "the most popular open-source static site generators", is pragmatic enough to integrate with it.
 
 ## Who am I ?
 
