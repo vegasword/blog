@@ -1,0 +1,76 @@
+<section style="margin-top: 4rem; padding-top: 2rem; border-top: 1px dashed var(--bg-secondary, #ccc);">
+  <h3 style="margin-bottom: 1.5rem; font-size: 1.25rem;">Discussion</h3>
+  
+  <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="82185af3-1d2b-4778-873a-4f9dc77bbe75"
+    data-page-id="{{ .RelPermalink }}"
+    data-page-url="{{ .Permalink }}"
+    data-page-title="{{ .Title }}"
+    data-theme="auto"
+  ></div>
+
+  <script src="https://cusdis.com/js/cusdis.es.js"></script>
+
+  <script>
+    window.addEventListener('load', () => {
+      const getTheme = () => {
+        const isDark = document.documentElement.classList.contains('dark') || 
+                       document.body.classList.contains('dark') ||
+                       document.documentElement.getAttribute('data-theme') === 'dark';
+        return isDark ? 'dark' : 'light';
+      };
+
+      const updateCusdisTheme = () => {
+        if (window.CUSDIS && window.CUSDIS.setTheme) {
+          window.CUSDIS.setTheme(getTheme());
+        }
+      };
+
+      setTimeout(updateCusdisTheme, 600);
+
+      const themeObserver = new MutationObserver((mutations) => {
+        mutations.forEach((mutation) => {
+          if (mutation.attributeName === 'class' || mutation.attributeName === 'data-theme') {
+            updateCusdisTheme();
+          }
+        });
+      });
+      themeObserver.observe(document.documentElement, { attributes: true, attributeFilter: ['class', 'data-theme'] });
+      themeObserver.observe(document.body, { attributes: true, attributeFilter: ['class', 'data-theme'] });
+
+      const fixIframeHeight = () => {
+        const iframe = document.querySelector('#cusdis_thread iframe');
+        if (!iframe) return;
+
+        iframe.setAttribute('scrolling', 'no');
+        iframe.style.overflow = 'hidden';
+
+        try {
+          const doc = iframe.contentWindow.document;
+          if (doc && doc.body) {
+            const scrollHeight = doc.body.scrollHeight;
+            if (scrollHeight > 50) {
+              iframe.style.height = (scrollHeight + 50) + 'px';
+            }
+          }
+        } catch (err) {
+          const currentHeight = parseInt(iframe.style.height, 10);
+          const lastHeight = parseInt(iframe.dataset.lastHeight || '0', 10);
+          
+          if (currentHeight > 0 && currentHeight !== lastHeight) {
+            const newHeight = currentHeight + 80;
+            iframe.style.height = newHeight + 'px';
+            iframe.dataset.lastHeight = newHeight.toString();
+          }
+        }
+      };
+
+      setInterval(fixIframeHeight, 1000);
+      
+      window.addEventListener('message', () => {
+        setTimeout(fixIframeHeight, 50);
+      });
+    });
+  </script>
+</section>
