@@ -33,7 +33,7 @@ I like to represent hatred as a flail because it starts from few links that beco
 
 I also noticed that eventually, some inspirational chains could become destructive depending on how its growth is protected from bad actors. I never managed a community at the scale of the Handmade Network, but I noticed that it takes few links discussing without holding anything back, sharing their knowledge and opinions and even sometimes working together to reinvent a more solid wheel to make the place inpisrational enough.
 
-The title of that section is an invitation to expand your independent critical thiking, because anyone could easily faint to be inspirational but gatekeeping the essential of a set of truths to make you dependent to their visions. We usually call them as gurus, but really, it could be anyone. One of the key is to take the necessary time for exploring yourself what you consider important __essentially__.
+The title of that section is an invitation to expand your independent critical thiking, because anyone could easily faint to be inspirational but gatekeeping the essential set of truths in order to make you dependent from their visions. Explore yourself what you consider important __essentially__.
 
 # Conclusion
 
